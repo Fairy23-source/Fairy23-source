@@ -60,27 +60,17 @@
 
 ---
 
-# 🔥 GitHub Streak
 
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" 
-    alt="GitHub Streak"
-  />
-</p>
-
----
 
 # 🌐 Connect With Me
 
 <p align="left">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Fairy23-source">
 <img src="https://skillicons.dev/icons?i=github" width="50"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/fairy-nilesh-solanki-263433373?lipi=urn%3Ali%3Apage%3Ad_flagship3_messaging_conversation_detail%3BOVbPkS24SzWViZBuUkHTfA%3D%3D">
 <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 

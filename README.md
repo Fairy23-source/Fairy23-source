@@ -31,7 +31,6 @@
 
 # 📚 Currently Learning
 
-- Object-Oriented Programming (OOP)
 - Data Structures & Algorithms
 - Advanced JavaScript
 - Git & GitHub Collaboration
